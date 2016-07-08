@@ -6758,3 +6758,7 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+#map{
+  width="100%";
+}
