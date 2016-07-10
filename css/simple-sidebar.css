@@ -6,6 +6,7 @@
 
  body {
     overflow-x: hidden;
+    height: 100%
  }
 
 /* Toggle Styles */
@@ -45,6 +46,7 @@
     width: 100%;
     position: absolute;
     padding: 15px;
+    height: 100%;
 }
 
 #wrapper.toggled #page-content-wrapper {

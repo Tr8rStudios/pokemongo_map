@@ -14,9 +14,11 @@
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Custom CSS -->
+    <!-- Custom Sidebar CSS -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
 
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -45,20 +47,19 @@
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12">
+            <div class="box">
+                <div class="row" style="height: 100%"> 
+                    <div id="other2" class="other-col">
                         <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><span class="glyphicon glyphicon-menu-hamburger"></span></a>
                     </div>
-                    <div class="col-lg-12" style="height: 50px">
-                    </div>
-                    <div id="map" class="col-lg-12">
-                            <iframe src="https://www.google.com/maps/d/embed?mid=1EChabiFShj46MjEkn85NN_wJgYA" width="100%" height="100%"></iframe>
-                    </div>
-					<div class="col-lg-12" style="height: 50px">
+					<div id="other" class="other-col">
 						<i>This data is not officially sourced. It is compiled by various Pokemon Trainers in Melbourne. To view full map visit <a href="https://goo.gl/8NZuk0">https://goo.gl/8NZuk0</a></i>
                     </div>
+                    <div id="map" class="map-col">
+                            <iframe src="https://www.google.com/maps/d/embed?mid=1EChabiFShj46MjEkn85NN_wJgYA&q=Melbourne,Victoria,Australia" width="100%" height="100%"></iframe>
+                    </div>
 				</div>
+                
             </div>
         </div>
         <!-- /#page-content-wrapper -->
