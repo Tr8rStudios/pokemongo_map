@@ -6760,5 +6760,13 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 #map{
-  width="100%";
+  height: "600px";
+}
+
+#other{
+  height: "10%";
+}
+
+#other2{
+  height: "10%";
 }
