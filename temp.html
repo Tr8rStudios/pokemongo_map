@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbZ8w1X659cu7auWNPxbJvsrFskhUyy3M&callback=initMap"
+    async defer></script>
 <script>
 function initialize() {
     var mapOptions = {
-      center: new google.maps.LatLng(58.33, -98.52),
+      center: new google.maps.LatLng(-37.8136, 144.9631),
       zoom: 11,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     };
 
   var map = new google.maps.Map(document.getElementById("googleMap"),mapOptions);
 
-  var kmzLayer = new google.maps.KmlLayer('./map.kmz');
+  var kmzLayer = new google.maps.KmlLayer('map.kmz');
   kmzLayer.setMap(map);
 }
 google.maps.event.addDomListener(window, 'load', initialize);
