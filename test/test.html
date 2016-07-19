@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="./css/ol.css" type="text/css">
     <style>
       .map {
-        height: 80%;
+        height: 100%;
         width: 100%;
       }
     </style>
@@ -16,18 +16,54 @@
     <div id="map" class="map"></div>
 
     <script type="text/javascript">
-      var map = new ol.Map({
-        target: 'map',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          })
-        ],
-        view: new ol.View({
-          center: ol.proj.fromLonLat([37.41, 8.82]),
-          zoom: 4
-        })
-      });
+    /*
+        var vector = new ol.layer.Vector({
+            source: new ol.source.Vector({
+            url: 'map.kml',
+            format: new ol.format.KML()
+        });*/
+        var map = new ol.Map({
+            target: 'map',
+            layers: [
+            new ol.layer.Tile({
+                source: new ol.source.OSM()
+            })
+            ],
+            view: new ol.View({
+            center: ol.proj.fromLonLat([37.41, 8.82]),
+            zoom: 4
+            })
+        });
+        var displayFeatureInfo = function(pixel) {
+        var features = [];
+        map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+            features.push(feature);
+        });
+        if (features.length > 0) {
+            var info = [];
+            var i, ii;
+            for (i = 0, ii = features.length; i < ii; ++i) {
+            info.push(features[i].get('name'));
+            }
+            document.getElementById('info').innerHTML = info.join(', ') || '(unknown)';
+            map.getTarget().style.cursor = 'pointer';
+        } else {
+            document.getElementById('info').innerHTML = '&nbsp;';
+            map.getTarget().style.cursor = '';
+        }
+        };
+
+        map.on('pointermove', function(evt) {
+        if (evt.dragging) {
+            return;
+        }
+        var pixel = map.getEventPixel(evt.originalEvent);
+        displayFeatureInfo(pixel);
+        });
+
+        map.on('click', function(evt) {
+        displayFeatureInfo(evt.pixel);
+        });
     </script>
     <div>
         Copyright (C) 2016 Tr8rStudios | Powered by Openlayers 3
