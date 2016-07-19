@@ -19,6 +19,7 @@
     <div id="map" class="map"></div>
 
     <script type="text/javascript">
+        //KML layer
          var vector = new ol.layer.Vector({
             source: new ol.source.Vector({
             url: 'data/example.kml',
@@ -33,8 +34,8 @@
             target: 'map',
             layers: [plain,vector],
             view: new ol.View({
-            center: ol.proj.fromLonLat([37.41, 8.82]),
-            zoom: 4
+            center: ol.proj.fromLonLat([-37.8136, 144.9631]),
+            zoom: 2
             })
         });
         var displayFeatureInfo = function(pixel) {
