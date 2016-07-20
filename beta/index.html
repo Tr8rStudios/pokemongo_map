@@ -1,31 +1,71 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--Styles-->  
-    <link rel="stylesheet" href="./css/ol.css" type="text/css">
-    <style>
-      .map {
-        height: 700px;
-        width: 100%;
-      }
-      .footer{
-        height: 200px;
-      }
-    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-    <!--Scripts-->
-    <script src="./js/ol.js" type="text/javascript"></script>
-    <script src="./js/convertData.js" type="text/javascript"></script>
-    <script src="./js/jQuery.js" type="text/javascript"></script>
+    <title>PokemonGO Map (Beta)</title>
 
-    <title>PokemonGo Map Beta</title>
+    <!-- Bootstrap core CSS -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/ol.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+        <script src="./js/ol.js" type="text/javascript"></script>
   </head>
+
   <body>
-    <h2>PokemonGo Map (GLOBAL) Beta</h2>
-    <div id="map" class="map"></div>
-    <script src="./js/map.js" type="text/javascript"></script>
-    <div id="footer">
-        Copyright (C) 2016 Tr8rStudios | Powered by Openlayers 3
-    </div>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">PokemonGo Map (Beta) - v0.3 </a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">Submit Data</a></li>
+            <li><a href="#contact">Service Status</a></li>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+        <div class="row" style="height: 100px">
+        </div>
+        <div class="row">
+            <div id="map"></div>
+            <script src="./js/map.js" type="text/javascript"></script>
+        </div>
+        
+    </div> <!-- /container -->
+    <footer class="footer">
+          <center>
+          Copright (C) 2016 Tr8RStudios / PokemonGO Mapping Team | Powered by OpenLayers3 and OpenStreetMaps | Theme by Bootswatch
+          </center>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./js/jquery.js"></script>
+    <script>window.jQuery || document.write('<script src="./js/jquery.js"><\/script>')</script>
+    <script src="../js/bootstrap.min.js"></script>
   </body>
 </html>
