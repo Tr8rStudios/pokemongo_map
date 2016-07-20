@@ -26,6 +26,14 @@ $(document).ready(function() {
         }),
     });
 
+     var pokestopsLayer,elbCBD = new ol.layer.Vector({
+        title: 'Pokestops Layer (Melb-CBD)',
+        source: new ol.source.Vector({
+            format: new ol.format.GeoJSON(),
+            url: 'data/pokestops/pokestops-melbcbd.json'
+        }),
+    });
+
     var map = new ol.Map({
         target: 'map',
         layers: [plain,gymsLayer,pokestopsLayer],
