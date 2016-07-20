@@ -18,6 +18,7 @@ $(document).ready(function() {
         style: gymIcons
     });
 
+    //original pokestop layer
     var pokestopsLayer = new ol.layer.Vector({
         title: 'Pokestops Layer',
         source: new ol.source.Vector({
@@ -38,7 +39,7 @@ $(document).ready(function() {
         target: 'map',
         layers: [plain,pokestopsLayer,pokestopsLayermelbCBD,gymsLayer],
         view: new ol.View({
-        center: ol.proj.fromLonLat([-164,0]),
+        center: ol.proj.fromLonLat([-164,0]), //centers at middle of Pacific Ocean 
         zoom: 2.1
         })
     });
@@ -71,6 +72,22 @@ $(document).ready(function() {
     });
 
     map.on('click', function(evt) {
-        displayFeatureInfo(evt.pixel);
+        var feature = map.forEachFeatureAtPixel(evt.pixel,
+        function(feature, layer) {
+            return feature;
+        });
+        if (feature) {
+            var geometry = feature.getGeometry();
+            var coord = geometry.getCoordinates();
+            popup.setPosition(coord);
+            $(element).popover({
+            'placement': 'top',
+            'html': true,
+            'content': feature.get('name')
+            });
+            $(element).popover('show');
+        } else {
+            $(element).popover('destroy');
+        }
     });
 });
