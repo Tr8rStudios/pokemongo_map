@@ -1,8 +1,15 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!--Styles-->  
-    <link rel="stylesheet" href="./css/ol.css" type="text/css">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Pokemon Go Map</title>
     <style>
       .map {
         height: 700px;
@@ -12,20 +19,74 @@
         height: 200px;
       }
     </style>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="./js/ol.js" type="text/javascript"></script>
+    <!-- Custom Sidebar CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
 
-    <!--Scripts-->
-    <script src="./js/ol.js" type="text/javascript"></script>
-    <script src="./js/convertData.js" type="text/javascript"></script>
-    <script src="./js/jQuery.js" type="text/javascript"></script>
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-    <title>PokemonGo Map Beta</title>
-  </head>
-  <body>
-    <h2>PokemonGo Map (GLOBAL) Beta</h2>
-    <div id="map" class="map"></div>
-    <script src="./js/map.js" type="text/javascript"></script>
-    <div id="footer">
-        Copyright (C) 2016 Tr8rStudios | Powered by Openlayers 3
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        Pokemon Go Map Beta v0.1
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="box">
+                <div class="row" style="height: 100%"> 
+                    <div id="other2" class="other-col">
+                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><span class="glyphicon glyphicon-menu-hamburger"></span></a>
+                    </div>
+					<div id="other" class="other-col">
+						<i>This data is not officially sourced. It is compiled by various Pokemon Trainers in Melbourne. To view full map visit <a href="https://goo.gl/8NZuk0">https://goo.gl/8NZuk0</a></i>
+                    </div>
+                    <div id="map"></div>
+                    <script src="js/map.js"></script>
+                </div>
+                                    
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
     </div>
-  </body>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
 </html>
