@@ -1,7 +1,7 @@
 $( document ).ready(function() {
     var gymIcons = new ol.style.Style({
         image: new ol.style.Icon({
-          src: '../icon/gyms.png'
+          src: 'icons/gym.png'
         })
     });
 
