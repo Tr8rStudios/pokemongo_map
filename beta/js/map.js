@@ -53,5 +53,10 @@ displayFeatureInfo(pixel);
 });
 
 map.on('click', function(evt) {
-displayFeatureInfo(evt.pixel);
+    displayFeatureInfo(evt.pixel);
 });
+
+map.addControl(new ol.Control.PanZoomBar());
+map.addControl(new ol.Control.Navigation());
+map.addControl(new ol.Control.ArgParser());
+map.addControl(new ol.Control.Attribution());
