@@ -68,35 +68,27 @@
           })
         })
       };
-
+/*
+      var layer1=new ol.layer.Vector({
+          source: new ol.source.Vector({
+          url: 'data/test.geojson',
+          format: new ol.format.GeoJSON({
+          defaultDataProjection :'EPSG:4326', 
+          projection: 'EPSG:3857'
+            })
+        }),
+        name: 'NAME 1',
+        style: style_1()
+    });*/
       var styleFunction = function(feature) {
         return styles[feature.getGeometry().getType()];
       };
 
-      var geojsonObject = {
-        'type': 'FeatureCollection',
-        'crs': {
-          'type': 'name',
-          'properties': {
-            'name': 'EPSG:3857'
-          }
-        },
-        'features': [{
-          'type': 'Feature',
-        }, {
-          'type': 'Feature',
-          'geometry': {
-            'type': 'LineString',
-            'coordinates': [[4e6, -2e6], [8e6, 2e6]]
-          }
-        }]
-      };
+      var geojsonObject = 'data/test.json';
 
       var vectorSource = new ol.source.Vector({
         features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
       });
-
-      vectorSource.addFeature(new ol.Feature(new ol.geom.Circle([5e6, 7e6], 1e6)));
 
       var vectorLayer = new ol.layer.Vector({
         source: vectorSource,
