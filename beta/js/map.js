@@ -1,77 +1,10 @@
-      var image = new ol.style.Circle({
-        radius: 5,
-        fill: null,
-        stroke: new ol.style.Stroke({color: 'red', width: 1})
-      });
-
-      var styles = {
-        'Point': new ol.style.Style({
-          image: image
-        }),
-        'LineString': new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'green',
-            width: 1
-          })
-        }),
-        'MultiLineString': new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'green',
-            width: 1
-          })
-        }),
-        'MultiPoint': new ol.style.Style({
-          image: image
-        }),
-        'MultiPolygon': new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'yellow',
-            width: 1
-          }),
-          fill: new ol.style.Fill({
-            color: 'rgba(255, 255, 0, 0.1)'
-          })
-        }),
-        'Polygon': new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'blue',
-            lineDash: [4],
-            width: 3
-          }),
-          fill: new ol.style.Fill({
-            color: 'rgba(0, 0, 255, 0.1)'
-          })
-        }),
-        'GeometryCollection': new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'magenta',
-            width: 2
-          }),
-          fill: new ol.style.Fill({
-            color: 'magenta'
-          }),
-          image: new ol.style.Circle({
-            radius: 10,
-            fill: null,
-            stroke: new ol.style.Stroke({
-              color: 'magenta'
-            })
-          })
-        }),
-        'Circle': new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'red',
-            width: 2
-          }),
-          fill: new ol.style.Fill({
-            color: 'rgba(255,0,0,0.2)'
-          })
-        })
-      };
+var plain = new ol.layer.Tile({
+        source: new ol.source.OSM()
+});
 /*
-      var layer1=new ol.layer.Vector({
+var layer1=new ol.layer.Vector({
           source: new ol.source.Vector({
-          url: 'data/test.geojson',
+          url: 'data/test.json',
           format: new ol.format.GeoJSON({
           defaultDataProjection :'EPSG:4326', 
           projection: 'EPSG:3857'
@@ -79,37 +12,46 @@
         }),
         name: 'NAME 1',
         style: style_1()
-    });*/
-      var styleFunction = function(feature) {
-        return styles[feature.getGeometry().getType()];
-      };
+});*/
 
-      var geojsonObject = 'data/test.json';
+var map = new ol.Map({
+    target: 'map',
+    layers: [plain],
+    view: new ol.View({
+    center: ol.proj.fromLonLat([144.9631,-37.8]),
+    zoom: 10
+    })
+});
 
-      var vectorSource = new ol.source.Vector({
-        features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-      });
 
-      var vectorLayer = new ol.layer.Vector({
-        source: vectorSource,
-        style: styleFunction
-      });
 
-      var map = new ol.Map({
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          }),
-          vectorLayer
-        ],
-        target: 'map',
-        controls: ol.control.defaults({
-          attributionOptions: /** @type {olx.control.AttributionOptions} */ ({
-            collapsible: false
-          })
-        }),
-        view: new ol.View({
-          center: [0, 0],
-          zoom: 2
-        })
-      });
+var displayFeatureInfo = function(pixel) {
+var features = [];
+map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+    features.push(feature);
+});
+if (features.length > 0) {
+    var info = [];
+    var i, ii;
+    for (i = 0, ii = features.length; i < ii; ++i) {
+    info.push(features[i].get('name'));
+    }
+    document.getElementById('info').innerHTML = info.join(', ') || '(unknown)';
+    map.getTarget().style.cursor = 'pointer';
+} else {
+    document.getElementById('info').innerHTML = '&nbsp;';
+    map.getTarget().style.cursor = '';
+}
+};
+
+map.on('pointermove', function(evt) {
+if (evt.dragging) {
+    return;
+}
+var pixel = map.getEventPixel(evt.originalEvent);
+displayFeatureInfo(pixel);
+});
+
+map.on('click', function(evt) {
+displayFeatureInfo(evt.pixel);
+});
