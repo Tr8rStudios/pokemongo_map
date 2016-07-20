@@ -4,6 +4,18 @@ $(document).ready(function() {
           src: 'icons/gym.png'
         })
     });
+    
+    var pokestopsIcons = new ol.style.Circle({
+        radius: 1,
+        fill: new ol.style.Fill({
+            color: 'blue',
+            opacity: 0.6
+            }),
+        stroke: new ol.style.Stroke({
+            color: 'blue',
+            opacity: 0.4
+        })
+    });
 
     var plain = new ol.layer.Tile({
         source: new ol.source.OSM()
@@ -24,7 +36,6 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokestops.json'
         }),
-        style: gymIcons
     });
 
     var map = new ol.Map({
