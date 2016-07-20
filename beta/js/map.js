@@ -14,12 +14,20 @@ var layer1=new ol.layer.Vector({
         style: style_1()
 });*/
 
+var Test = new ol.layer.Vector({
+      title: 'added Layer',
+      source: new ol.source.Vector({
+         format: new ol.format.GeoJSON(),
+         url: 'data/test.json'
+      })
+})
+
 var map = new ol.Map({
     target: 'map',
-    layers: [plain],
+    layers: [plain,Test],
     view: new ol.View({
-    center: ol.proj.fromLonLat([144.9631,-37.8]),
-    zoom: 4
+    center: ol.proj.fromLonLat([-164,0]),
+    zoom: 2.1
     })
 });
 
@@ -55,8 +63,3 @@ displayFeatureInfo(pixel);
 map.on('click', function(evt) {
     displayFeatureInfo(evt.pixel);
 });
-
-map.addControl(new ol.Control.PanZoomBar());
-map.addControl(new ol.Control.Navigation());
-map.addControl(new ol.Control.ArgParser());
-map.addControl(new ol.Control.Attribution());
