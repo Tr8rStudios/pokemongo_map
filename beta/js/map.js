@@ -1,4 +1,6 @@
-var plain = new ol.layer.Tile({
+window.onload = function()
+{
+    var plain = new ol.layer.Tile({
         source: new ol.source.OSM()
 });
 /*
@@ -63,3 +65,4 @@ displayFeatureInfo(pixel);
 map.on('click', function(evt) {
     displayFeatureInfo(evt.pixel);
 });
+}
