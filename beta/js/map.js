@@ -1,4 +1,10 @@
 $(document).ready(function() {
+    var circle = new ol.style.Circle({
+        radius: 2,
+        fill: white,
+        stroke: new ol.style.Stroke({color: 'red', width: 1})
+      });
+
     var gymIcons = new ol.style.Style({
         image: new ol.style.Icon({
           src: 'icons/gym.png'
@@ -25,6 +31,7 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokestops.json'
         }),
+        style: circle
     });
 
      var pokestopsLayermelbCBD = new ol.layer.Vector({
@@ -33,6 +40,7 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokestops/pokestops-melbcbd.json'
         }),
+        style: circle
     });
 
     var map = new ol.Map({
@@ -79,7 +87,7 @@ $(document).ready(function() {
     });
 
     map.addOverlay(popup);
-    
+
     map.on('click', function(evt) {
         var feature = map.forEachFeatureAtPixel(evt.pixel,
         function(feature, layer) {
