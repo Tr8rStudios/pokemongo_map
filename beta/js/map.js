@@ -8,12 +8,10 @@ $(document).ready(function() {
     var pokestopsIcons = new ol.style.Circle({
         radius: 1,
         fill: new ol.style.Fill({
-            color: 'blue',
-            opacity: 0.6
+            color: 'blue'
             }),
         stroke: new ol.style.Stroke({
-            color: 'blue',
-            opacity: 0.4
+            color: 'blue'
         })
     });
 
@@ -36,6 +34,7 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokestops.json'
         }),
+        style: pokestopsIcons
     });
 
     var map = new ol.Map({
