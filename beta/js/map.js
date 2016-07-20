@@ -7,7 +7,7 @@ $( document ).ready(function() {
         title: 'added Layer',
         source: new ol.source.Vector({
             format: new ol.format.GeoJSON(),
-            url: 'data/test.json'
+            url: 'data/gyms.json'
         })
     })
 
