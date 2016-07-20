@@ -67,10 +67,19 @@ $(document).ready(function() {
     if (evt.dragging) {
         return;
     }
+
     var pixel = map.getEventPixel(evt.originalEvent);
-    displayFeatureInfo(pixel);
+        displayFeatureInfo(pixel);
     });
 
+    var popup = new ol.Overlay({
+        element: element,
+        positioning: 'bottom-center',
+        stopEvent: false
+    });
+
+    map.addOverlay(popup);
+    
     map.on('click', function(evt) {
         var feature = map.forEachFeatureAtPixel(evt.pixel,
         function(feature, layer) {
