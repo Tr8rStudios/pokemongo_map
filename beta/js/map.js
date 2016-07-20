@@ -36,7 +36,7 @@ $(document).ready(function() {
 
     var map = new ol.Map({
         target: 'map',
-        layers: [plain,gymsLayer,pokestopsLayer,pokestopsLayermelbCBD],
+        layers: [plain,pokestopsLayer,pokestopsLayermelbCBD,gymsLayer],
         view: new ol.View({
         center: ol.proj.fromLonLat([-164,0]),
         zoom: 2.1
