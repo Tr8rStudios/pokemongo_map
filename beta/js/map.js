@@ -9,11 +9,6 @@ $(document).ready(function() {
         })
     });
 
-    var pokestopIcons = new ol.style.Style({
-        image: new ol.style.Icon({
-          src: 'icons/pokestop.png'
-        })
-    });
     var plain = new ol.layer.Tile({
         source: new ol.source.OSM()
     });
@@ -37,7 +32,6 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokestops.json'
         }),
-        style: pokestopIcons
     });
 
      var pokestopsLayermelbCBD = new ol.layer.Vector({
@@ -46,7 +40,6 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokestops/pokestops-melbcbd.json'
         }),
-        style: pokestopIcons
     });
 
     var map = new ol.Map({
@@ -91,6 +84,10 @@ $(document).ready(function() {
         positioning: 'bottom-center',
         stopEvent: false
     });
+    
+    //Adds Full Screen control
+    var myFullScreenControl = new ol.control.FullScreen();
+    map.addControl(myFullScreenControl);
 
     map.addOverlay(popup);
 
