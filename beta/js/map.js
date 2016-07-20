@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$(document).ready(function() {
     var gymIcons = new ol.style.Style({
         image: new ol.style.Icon({
           src: 'icons/gym.png'
@@ -9,18 +9,27 @@ $( document ).ready(function() {
         source: new ol.source.OSM()
     });
 
-    var Test = new ol.layer.Vector({
-        title: 'added Layer',
+    var gymsLayer = new ol.layer.Vector({
+        title: 'Gyms Layer',
         source: new ol.source.Vector({
             format: new ol.format.GeoJSON(),
             url: 'data/gyms.json'
         }),
         style: gymIcons
-    })
+    });
+
+    var pokestopsLayer = new ol.layer.Vector({
+        title: 'Pokestops Layer',
+        source: new ol.source.Vector({
+            format: new ol.format.GeoJSON(),
+            url: 'data/pokestops.json'
+        }),
+        style: gymIcons
+    });
 
     var map = new ol.Map({
         target: 'map',
-        layers: [plain,Test],
+        layers: [plain,gymsLayer,pokestopsLayer],
         view: new ol.View({
         center: ol.proj.fromLonLat([-164,0]),
         zoom: 2.1
