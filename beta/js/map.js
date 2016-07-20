@@ -26,7 +26,7 @@ $(document).ready(function() {
         }),
     });
 
-     var pokestopsLayer,elbCBD = new ol.layer.Vector({
+     var pokestopsLayermelbCBD = new ol.layer.Vector({
         title: 'Pokestops Layer (Melb-CBD)',
         source: new ol.source.Vector({
             format: new ol.format.GeoJSON(),
@@ -36,7 +36,7 @@ $(document).ready(function() {
 
     var map = new ol.Map({
         target: 'map',
-        layers: [plain,gymsLayer,pokestopsLayer],
+        layers: [plain,gymsLayer,pokestopsLayer,pokestopsLayermelbCBD],
         view: new ol.View({
         center: ol.proj.fromLonLat([-164,0]),
         zoom: 2.1
