@@ -1,4 +1,10 @@
 $( document ).ready(function() {
+    var gymIcons = new ol.style.Style({
+        image: new ol.style.Icon({
+          src: '../icon/gyms.png'
+        })
+    });
+
     var plain = new ol.layer.Tile({
         source: new ol.source.OSM()
     });
@@ -8,7 +14,8 @@ $( document ).ready(function() {
         source: new ol.source.Vector({
             format: new ol.format.GeoJSON(),
             url: 'data/gyms.json'
-        })
+        }),
+        style: gymIcons
     })
 
     var map = new ol.Map({
