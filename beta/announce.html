@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="A Pokemon Go Map Project">
+    <meta name="author" content="Tr8RStudios/PokemonGo Mapping Team">
 
     <title>PokemonGO Map (Beta)</title>
 
@@ -24,7 +24,8 @@
   </head>
 
   <body>
-
+      <div id="fb-root"></div>
+      <script src="./js/ext/fb-sdk.js" type="text/javascript"></script>
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
@@ -35,38 +36,50 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">PokemonGo Map (Beta) <span style="font-size: 10px">v0.4.2</span> </a>
+          <a class="navbar-brand" href="index.html">PokemonGo Map (Beta) <span style="font-size: 10px">v0.4.5</span> </a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.html">Home</a></li>
             <li><a href="submit.html">Submit Data</a></li>
             <li><a href="status.html">Service Status</a></li>
-            <li class="active"><a href="update.html">Update</a></li>
+            <li class="active"><a href="announce.html">Announcements</a></li>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
 
     <div class="container">
-        <div class="row" style="height: 100px">
+        <div class="row" style="height:100px">
         </div>
         <div class="row">
-            <input id="updatePokestops" type="button" class=".btn-success" value="button">
+            
+            <div class="fb-page" data-href="https://www.facebook.com/PokemonGo-Map-1568994263397541/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/PokemonGo-Map-1568994263397541/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/PokemonGo-Map-1568994263397541/">PokemonGo Map</a></blockquote></div>
         </div>
         
     </div> <!-- /container -->
     <footer class="footer">
           <center>
           Copright &copy; 2016 Tr8RStudios / PokemonGO Mapping Team | Powered by OpenLayers3 and OpenStreetMaps | Theme by Bootswatch
+          
+          <!--PayPal donation button-->
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="XAX7MHKQECKB6">
+            <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+          </form>
           </center>
+          
+
     </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="./js/ext/jquery.js"></script>
-    <script>window.jQuery || document.write('<script src="./js/jquery.js"><\/script>')</script>
+    <script>window.jQuery || document.write('<script src="./js/ext/jquery.js"><\/script>')</script>
     <script src="./js/ext/bootstrap.min.js"></script>
     
   </body>
+  
 </html>

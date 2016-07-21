@@ -42,6 +42,14 @@ $(document).ready(function() {
         }),
     });
 
+    var bulbasaurLayer = new ol.layer.Vector({
+        title: 'Bulbasaur Layer',
+        source: new ol.source.Vector({
+            format: new ol.format.GeoJSON(),
+            url: 'data/pokemon/bulbasaur.json'
+        }),
+    });
+
     var map = new ol.Map({
         target: 'map',
         layers: [plain,pokestopsLayer,pokestopsLayermelbCBD,gymsLayer],
