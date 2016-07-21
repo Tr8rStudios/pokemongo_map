@@ -1,0 +1,495 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.00876,-37.779178 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.06523,-33.84718 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.040259,-37.760266 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962776,-37.802163 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.896792,1.312751 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963183,-37.802426 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27359,-37.909263 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.866978,-37.73272 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.076984,-37.894719 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0466,-37.760261 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965742,-37.817184 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.996797,-37.736239 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.078336,-37.824472 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.075552,-37.826324 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02658,-37.627839 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.969138,-37.756024 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.972357,-37.833641 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.290874,-37.888445 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.216938,-37.970299 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.200977,-37.90713 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.027996,-37.865236 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.970522,-37.796649 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.324922,-38.016933 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.246221,-37.865554 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.089666,-37.898065 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.974577,-37.835226 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.031451,-37.778279 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.972485,-37.818645 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.046718,-37.822582 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96026,-37.800947 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8992395,-37.7651002 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9234867,-37.7978314 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9771312,-37.7989057 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0658691,-37.7425616 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2772379,-37.8985433 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9225882,-37.7617945 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0347447,-37.7683825 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.1721915,-33.9052616 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1850557,-37.8169037 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2373105,-37.8124412 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8201717,-34.0555483 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.270076,-38.032531 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.010611,-37.850829 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.016788,-37.778806 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1893687,-37.8451556 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7538665,-37.9099336 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0381565,-37.7932406 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8101832,-37.757945 ]
+    },
+    "properties": {
+    "name":"Bulbasaur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.200977,-37.906148 ]
+    },
+    "properties": {
+    "name":"Bulbasaur "
+    }
+  }
+]
+}
