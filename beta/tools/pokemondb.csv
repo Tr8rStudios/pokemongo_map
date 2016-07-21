@@ -27,10 +27,10 @@ Name,Pokemon
 026,Raichu
 027,Sandshrew
 028,Sandslash
-029,Nidoran?
+029,Nidoran(F)
 030,Nidorina
 031,Nidoqueen
-032,Nidoran?
+032,Nidoran(M)
 033,Nidorino
 034,Nidoking
 035,Clefairy
@@ -81,7 +81,7 @@ Name,Pokemon
 080,Slowbro
 081,Magnemite
 082,Magneton
-083,Farfetch'd
+083,Farfetchd
 084,Doduo
 085,Dodrio
 086,Seel
