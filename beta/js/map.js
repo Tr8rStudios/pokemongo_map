@@ -619,7 +619,7 @@ $(document).ready(function() {
             src: 'icons/121.png'
         })
     });
-    var Mr.MimeIcon = new ol.layer.Tile({
+    var MrMimeIcon = new ol.layer.Tile({
         image: new ol.style.Icon({
             src: 'icons/122.png'
         })
