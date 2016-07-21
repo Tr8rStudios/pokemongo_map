@@ -10,8 +10,5 @@ for i in range(1,len(your_list)):
     pokemonname = your_list[i][1]
     pokemonnumber = your_list[i][0]
     print(pokemonname,pokemonnumber)
-    file.write( 'var ' + pokemonname + "Icon = new ol.layer.Tile({")
-    file.write( "image: new ol.style.Icon({")
-    file.write( "src: 'icons/"+pokemonnumber+".png'")
-    file.write( "})" )
-    file.write( "});" )
+    file.write( 'var ' + pokemonname + "Icon = new ol.layer.Tile({image: new ol.style.Icon({src: 'icons/"+pokemonnumber+".png'})});" )
+    file.write('\n')

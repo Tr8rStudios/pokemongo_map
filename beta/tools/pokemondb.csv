@@ -27,10 +27,10 @@ Name,Pokemon
 026,Raichu
 027,Sandshrew
 028,Sandslash
-029,Nidoran(F)
+029,NidoranF
 030,Nidorina
 031,Nidoqueen
-032,Nidoran(M)
+032,NidoranM
 033,Nidorino
 034,Nidoking
 035,Clefairy
@@ -120,7 +120,7 @@ Name,Pokemon
 119,Seaking
 120,Staryu
 121,Starmie
-122,Mr. Mime
+122,MrMime
 123,Scyther
 124,Jynx
 125,Electabuzz
