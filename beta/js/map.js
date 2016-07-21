@@ -48,6 +48,7 @@ $(document).ready(function() {
             format: new ol.format.GeoJSON(),
             url: 'data/pokemon/bulbasaur.json'
         }),
+        style: BulbasaurIcon
     });
 
     var map = new ol.Map({
@@ -85,12 +86,6 @@ $(document).ready(function() {
 
     var pixel = map.getEventPixel(evt.originalEvent);
         displayFeatureInfo(pixel);
-    });
-
-    var popup = new ol.Overlay({
-        element: element,
-        positioning: 'bottom-center',
-        stopEvent: false
     });
     
     //Adds Full Screen control
