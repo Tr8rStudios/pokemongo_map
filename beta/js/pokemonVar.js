@@ -166,7 +166,7 @@ src: 'icons/028.png'
 })
 });
 
-var Nidoran?Icon = new ol.layer.Tile({
+var NidoranFIcon = new ol.layer.Tile({
 image: new ol.style.Icon({
 src: 'icons/029.png'
 })
@@ -184,7 +184,7 @@ src: 'icons/031.png'
 })
 });
 
-var Nidoran?Icon = new ol.layer.Tile({
+var NidoranMIcon = new ol.layer.Tile({
 image: new ol.style.Icon({
 src: 'icons/032.png'
 })
