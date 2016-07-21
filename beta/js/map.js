@@ -246,22 +246,6 @@ var MewIcon = new ol.layer.Tile({image: new ol.style.Icon({src: 'icons/151.png'}
     map.addOverlay(popup);
 
     map.on('click', function(evt) {
-        var feature = map.forEachFeatureAtPixel(evt.pixel,
-        function(feature, layer) {
-            return feature;
-        });
-        if (feature) {
-            var geometry = feature.getGeometry();
-            var coord = geometry.getCoordinates();
-            popup.setPosition(coord);
-            $(element).popover({
-            'placement': 'top',
-            'html': true,
-            'content': feature.get('name')
-            });
-            $(element).popover('show');
-        } else {
-            $(element).popover('destroy');
-        }
+        var feature = map.forEachFeatureAtPixel(evt.pixel)
     });
 });
