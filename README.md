@@ -1,7 +1,9 @@
 # Pokemon Go
 
-## Future Updates
-Future updates will be mostly done to `temp.html` where it is testing the Google Maps API for future use
+## Beta
+This version is currently in `Beta`. It is considered unstable, some commits will be 
+unstable, where this occurs patches will be released to enhance stability of 
+the Project,
 
 ## License
 The MIT License (MIT)

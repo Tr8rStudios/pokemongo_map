@@ -12,7 +12,7 @@ $(document).ready(function() {
     var plain = new ol.layer.Tile({
         source: new ol.source.OSM()
     });
-
+//pokemon icons
 var BulbasaurIcon = new ol.layer.Tile({image: new ol.style.Icon({src: 'icons/001.png'})});
 var IvysaurIcon = new ol.layer.Tile({image: new ol.style.Icon({src: 'icons/002.png'})});
 var VenusaurIcon = new ol.layer.Tile({image: new ol.style.Icon({src: 'icons/003.png'})});
@@ -242,10 +242,4 @@ var MewIcon = new ol.layer.Tile({image: new ol.style.Icon({src: 'icons/151.png'}
     //Adds Full Screen control
     var myFullScreenControl = new ol.control.FullScreen();
     map.addControl(myFullScreenControl);
-
-    map.addOverlay(popup);
-
-    map.on('click', function(evt) {
-        var feature = map.forEachFeatureAtPixel(evt.pixel)
-    });
 });
