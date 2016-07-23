@@ -1,0 +1,1045 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.756653,-37.66806,0 ]
+    },
+    "properties": {
+    "id":"Calder Park Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.070236,-37.835725,0 ]
+    },
+    "properties": {
+    "id":"Wilison Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.041177,-37.758773,0 ]
+    },
+    "properties": {
+    "id":"Donaldsons Reserve Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045806,-37.765613,0 ]
+    },
+    "properties": {
+    "id":"Ivanhoe Town Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.078289,-37.834042,0 ]
+    },
+    "properties": {
+    "id":"Middle Camberwell AusPost Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.075568,-37.844037,0 ]
+    },
+    "properties": {
+    "id":"Hartwell Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.047115,-37.755632,0 ]
+    },
+    "properties": {
+    "id":"Remembrance Garden - Repatriation Hospital Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.136132,-37.91319,0 ]
+    },
+    "properties": {
+    "id":"Monash Sport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.137141,-37.908145,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.043108,-37.7683,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.047008,-37.764668,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.032277,-37.764506,0 ]
+    },
+    "properties": {
+    "id":"Seddon Reserve Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.102444,-37.911193,0 ]
+    },
+    "properties": {
+    "id":"Huntingdale Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.989233,-37.823819,0 ]
+    },
+    "properties": {
+    "id":"Richmond Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.992495,-37.838733,0 ]
+    },
+    "properties": {
+    "id":"Pokemon Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.083293,-37.834467,0 ]
+    },
+    "properties": {
+    "id":"St Dominic's Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.133938,-37.912619,0 ]
+    },
+    "properties": {
+    "id":"Forum Pond Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.058541,-37.886285,0 ]
+    },
+    "properties": {
+    "id":"Carnegie Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037971,-37.756565,0 ]
+    },
+    "properties": {
+    "id":"Ivanhoe Music Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.007,-37.716689,0 ]
+    },
+    "properties": {
+    "id":"Reservoir Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.009468,-37.707879,0 ]
+    },
+    "properties": {
+    "id":"Ruthven Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.022793,-37.733347,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.071073,-37.832768,0 ]
+    },
+    "properties": {
+    "id":"Riversdale Park Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.061913,-37.831781,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.068283,-37.82565,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0643,-37.826141,0 ]
+    },
+    "properties": {
+    "id":"Read Gardens Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.059856,-37.826186,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.055188,-37.829781,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.033465,-37.765965,0 ]
+    },
+    "properties": {
+    "id":"Seddon Reserve Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.041092,-37.769974,0 ]
+    },
+    "properties": {
+    "id":"Historic Fire Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037352,-37.768289,0 ]
+    },
+    "properties": {
+    "id":"Nellie Ibbot Park Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.096436,-37.77208,0 ]
+    },
+    "properties": {
+    "id":"St Timothhy's Anglican Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0884371,-38.0096721,0 ]
+    },
+    "properties": {
+    "id":"Attenborough Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.085058,-38.008316,0 ]
+    },
+    "properties": {
+    "id":"Mordialloc Cairn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.088204,-38.006724,0 ]
+    },
+    "properties": {
+    "id":"Old Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.087579,-38.006215,0 ]
+    },
+    "properties": {
+    "id":"Mordialloc Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.098002,-37.999807,0 ]
+    },
+    "properties": {
+    "id":"Woodlands Golf Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.053695,-37.76376,0 ]
+    },
+    "properties": {
+    "id":"Eaglemont Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.057619,-37.758204,0 ]
+    },
+    "properties": {
+    "id":"Remembrance Park Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.078848,-37.97849,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9673086,-37.8177681,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.177143,-37.967499,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.053845,-37.764046,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.152448,-37.853005,0 ]
+    },
+    "properties": {
+    "id":"Uniting Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.143938,-37.83162,0 ]
+    },
+    "properties": {
+    "id":"Blackburn Animal Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.146185,-37.841182,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.776195,-37.751276,0 ]
+    },
+    "properties": {
+    "id":"Subway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.774613,-37.769926,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.888049,-37.673469,0 ]
+    },
+    "properties": {
+    "id":"Statues At Best Western Attwood Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8885,-37.676883,0 ]
+    },
+    "properties": {
+    "id":"Broadmeadows War Memorial Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.892749,-37.676913,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.785034,-37.756659,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.740785,-37.889139,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18792,-37.924896,0 ]
+    },
+    "properties": {
+    "id":"gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188811,-37.924879,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.189315,-37.92498,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18939,-37.926004,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188253,-37.926258,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.187813,-37.92542,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18777,-37.925852,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.189991,-37.926978,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.192105,-37.928873,0 ]
+    },
+    "properties": {
+    "id":"gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.185517,-37.926191,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.187491,-37.924557,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.194057,-37.924608,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.194744,-37.924574,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94981,-37.834276,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.951135,-37.833421,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.079742,-37.868349,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.133229,47.669441,0 ]
+    },
+    "properties": {
+    "id":"Marymoor Trails"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.130976,47.673732,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.131362,47.673299,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.131609,47.672583,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.132113,47.672374,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.008244,-37.779242,0 ]
+    },
+    "properties": {
+    "id":"Dennis Trainstation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.070761,-37.89626,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.114559,-37.774255,0 ]
+    },
+    "properties": {
+    "id":"Space Love Manga Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.918573,-37.576602,0 ]
+    },
+    "properties": {
+    "id":"Giant Insect Playground Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.038757,-37.774802,0 ]
+    },
+    "properties": {
+    "id":"Darebin Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037459,-37.775447,0 ]
+    },
+    "properties": {
+    "id":"Masonic Temple Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037346,-37.77763,0 ]
+    },
+    "properties": {
+    "id":"Sparks Reserve Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045789,-37.771897,0 ]
+    },
+    "properties": {
+    "id":"Rabbit Mural Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.052592,-37.773556,0 ]
+    },
+    "properties": {
+    "id":"Ivanhoe Cricket Club Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.054593,-37.772118,0 ]
+    },
+    "properties": {
+    "id":"150 Year Old Laneway Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.057715,-37.772508,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.062798,-37.770626,0 ]
+    },
+    "properties": {
+    "id":"East Ivanhoe Uniting Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.054885,-37.763885,0 ]
+    },
+    "properties": {
+    "id":"Eaglemont Model Dairy Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.112936,-37.816294,0 ]
+    },
+    "properties": {
+    "id":"Gym - Box Hill Gardens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.105448,-37.81948,0 ]
+    },
+    "properties": {
+    "id":"Gym - Mont Albert Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.060746,-37.757153,0 ]
+    },
+    "properties": {
+    "id":"Heidelberg Station Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.058536,-37.755643,0 ]
+    },
+    "properties": {
+    "id":"From Mountains to Sea Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.063595,-37.756001,0 ]
+    },
+    "properties": {
+    "id":"Scots Church Heidelberg Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069911,-37.757645,0 ]
+    },
+    "properties": {
+    "id":"Heidelberg Police Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.072009,-37.756631,0 ]
+    },
+    "properties": {
+    "id":"St Johns Anglican Church Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.075954,-37.755134,0 ]
+    },
+    "properties": {
+    "id":"25 Manna Gums Plaque Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.082064,-37.757008,0 ]
+    },
+    "properties": {
+    "id":"The Dish Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.082933,-37.758504,0 ]
+    },
+    "properties": {
+    "id":"Saturn's Rings Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123583,-37.511262,0 ]
+    },
+    "properties": {
+    "id":"Lions Club Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.94702,23.650541,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9349734,-37.5990691,0 ]
+    },
+    "properties": {
+    "id":"Craigieburn Leisure Centre Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.947389,-37.841917,0 ]
+    },
+    "properties": {
+    "id":"Not Without Chomley Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9417062,-33.7326643,0 ]
+    },
+    "properties": {
+    "id":"Emmanuel Baptist Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.914592,-37.567784,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 175.129102,-40.809963,0 ]
+    },
+    "properties": {
+    "id":"Gym"
+    }
+  }
+]
+}
