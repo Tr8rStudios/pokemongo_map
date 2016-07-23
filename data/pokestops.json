@@ -1,0 +1,7655 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.361575,-38.145113,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.361446,-38.145012,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.361896,-38.145349,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.182392,-38.029687,0 ]
+    },
+    "properties": {
+    "id":"G.A.A Gaelic Park Entrance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.979845,-37.413289,0 ]
+    },
+    "properties": {
+    "id":"pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.184133,-38.033228,0 ]
+    },
+    "properties": {
+    "id":"Dandenong Creek Regional Trail"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.979743,-37.414618,0 ]
+    },
+    "properties": {
+    "id":"Hadfield Park Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.979751,-37.4148,0 ]
+    },
+    "properties": {
+    "id":"Wallan Eye Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.979845,-37.416246,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.981326,-37.414695,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.981626,-37.414925,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.982399,-37.416391,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.953334,-36.252528,0 ]
+    },
+    "properties": {
+    "id":"St Patrick's Primary School and Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.978595,-37.412134,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.977394,-37.41628,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94996,-36.251188,0 ]
+    },
+    "properties": {
+    "id":"St James's Anglican Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.005291,-37.416619,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.001936,-37.417746,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.970833,-37.415219,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188822,-38.02595,0 ]
+    },
+    "properties": {
+    "id":"Hotel for Ants. East Link"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.174815,-38.001569,0 ]
+    },
+    "properties": {
+    "id":"Serbian Orthodox Diocese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.057254,-37.751334,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.057157,-37.751826,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.057093,-37.752301,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05705,-37.752691,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.174029,-37.991498,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.174112,-37.991563,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.21817,-37.971544,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.217513,-37.972208,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.028431,-37.707236,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123194,-37.823204,0 ]
+    },
+    "properties": {
+    "id":"New Apostolic Church Box Hill - Melbourne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122924,-37.821851,0 ]
+    },
+    "properties": {
+    "id":"Melbourne Chinese Methodist Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123062,-37.821235,0 ]
+    },
+    "properties": {
+    "id":"Blood's Cottage Historical Marker"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123346,-37.821508,0 ]
+    },
+    "properties": {
+    "id":"Box Hill Pioneer Stone Tablet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.88497,-37.72678,0 ]
+    },
+    "properties": {
+    "id":"Moonee Valley Community Project"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126012,-37.818731,0 ]
+    },
+    "properties": {
+    "id":"Treble Clef - Box Hill Institute Centre For Performing Arts - Music"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126445,-37.819065,0 ]
+    },
+    "properties": {
+    "id":"Box Hill Town Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159242,-38.144075,0 ]
+    },
+    "properties": {
+    "id":"pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.881011,-37.725447,0 ]
+    },
+    "properties": {
+    "id":"Cafe53 Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.212323,-37.969766,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.210955,-37.970576,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.210708,-37.97213,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.218873,-37.745896,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.216336,-37.974917,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.219195,-37.746952,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.215523,-37.96416,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.216041,-37.742672,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.324423,-38.015167,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.219348,-37.974906,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.327519,-38.023796,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.209501,-38.013886,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.326242,-38.024667,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.274153,-36.753452,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.326312,-38.026197,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.136669,-37.884016,0 ]
+    },
+    "properties": {
+    "id":"Valley reserve south entrance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.282417,-36.752323,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.136872,-37.88416,0 ]
+    },
+    "properties": {
+    "id":"Regent street playground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.136079,-37.883373,0 ]
+    },
+    "properties": {
+    "id":"Secrets of the reeds and rushes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.208202,-38.013734,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135735,-37.883076,0 ]
+    },
+    "properties": {
+    "id":"Feathers Friends"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.269111,-37.785054,0 ]
+    },
+    "properties": {
+    "id":"Lipscombe Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135403,-37.882619,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.302365,-38.018423,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135403,-37.882619,0 ]
+    },
+    "properties": {
+    "id":"what is a habitat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.301252,-38.019776,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.300938,-38.019951,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.13698,-37.882162,0 ]
+    },
+    "properties": {
+    "id":"Valley reserve north entrance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.219506,-37.975208,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127989,-37.876674,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.366722,-38.04363,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.366443,-38.044128,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.753982,-36.143792,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.015395,-37.712038,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.910938,-33.543906,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.060177,-37.871847,0 ]
+    },
+    "properties": {
+    "id":"History of Dairy Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.060247,-37.871577,0 ]
+    },
+    "properties": {
+    "id":"Dairy Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.060625,-37.869822,0 ]
+    },
+    "properties": {
+    "id":"Darling Road Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.059217,-37.877206,0 ]
+    },
+    "properties": {
+    "id":"Ped's Kafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.116348,-37.84286,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.059759,-37.87542,0 ]
+    },
+    "properties": {
+    "id":"All Saints Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121364,-37.840693,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121377,-37.841017,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.058535,-37.866512,0 ]
+    },
+    "properties": {
+    "id":"Stanley St Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.087917,-37.876141,0 ]
+    },
+    "properties": {
+    "id":"Seadra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.112733,-37.846282,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.10931,-37.849188,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.830576,-37.71679,0 ]
+    },
+    "properties": {
+    "id":"Keilor Market Gardens Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.695295,-37.863369,0 ]
+    },
+    "properties": {
+    "id":"PokeStop - Hogans Road Reserve Playground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.693975,-37.863292,0 ]
+    },
+    "properties": {
+    "id":"PokeStop - Hoppers Crossing Sports Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.700139,-37.865486,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.178511,-37.911235,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.694222,-37.86292,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.676064,-37.860726,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.693804,-37.866621,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83905,-37.761462,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.860664,-37.758315,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.247519,-37.862827,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.101038,-37.704809,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.344712,-38.049662,0 ]
+    },
+    "properties": {
+    "id":"Brentwood Park Community Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.079688,-33.770804,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.07546,-33.769752,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.080693,-33.772191,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.081608,-33.772967,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.081967,-33.771148,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.076942,-33.774038,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.082696,-33.771617,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.919844,-37.716248,0 ]
+    },
+    "properties": {
+    "id":"John Vandeloo Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.918458,-37.716242,0 ]
+    },
+    "properties": {
+    "id":"Stevenson Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.912988,-37.718894,0 ]
+    },
+    "properties": {
+    "id":"Oak Park Milk Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.903003,-37.714062,0 ]
+    },
+    "properties": {
+    "id":"Point 111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.901377,-37.714279,0 ]
+    },
+    "properties": {
+    "id":"Point 112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9019,-37.716089,0 ]
+    },
+    "properties": {
+    "id":"Point 113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.106322,-38.024658,0 ]
+    },
+    "properties": {
+    "id":"Albany Park Train"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.089051,-38.006709,0 ]
+    },
+    "properties": {
+    "id":"Exquisite Locality"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.089269,-38.006149,0 ]
+    },
+    "properties": {
+    "id":"St Nicholas Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084586,-38.004256,0 ]
+    },
+    "properties": {
+    "id":"St Brigid's Catholic Church Mordialloc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.107926,-38.038298,0 ]
+    },
+    "properties": {
+    "id":"Edithvale War Memorial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.107712,-38.037411,0 ]
+    },
+    "properties": {
+    "id":"Edi Flamingos Pole Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.106698,-38.038759,0 ]
+    },
+    "properties": {
+    "id":"Edithvale Life Saving Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.110136,-38.037996,0 ]
+    },
+    "properties": {
+    "id":"Uniting Church Edithvale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.114637,-38.049867,0 ]
+    },
+    "properties": {
+    "id":"Chelsea Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115509,-38.051121,0 ]
+    },
+    "properties": {
+    "id":"Chelsea Clock Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.11617,-38.052538,0 ]
+    },
+    "properties": {
+    "id":"Chelsea Beardsworth Bench"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115093,-38.050875,0 ]
+    },
+    "properties": {
+    "id":"Chelsea Beginnings"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115962,-38.050942,0 ]
+    },
+    "properties": {
+    "id":"Lest We Forget"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.116391,-38.051031,0 ]
+    },
+    "properties": {
+    "id":"Library Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115962,-38.052058,0 ]
+    },
+    "properties": {
+    "id":"Chelsea Historic Marker"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.11623,-38.052121,0 ]
+    },
+    "properties": {
+    "id":"Gull Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1166,-38.052949,0 ]
+    },
+    "properties": {
+    "id":"Koorie Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.87083,-37.828497,0 ]
+    },
+    "properties": {
+    "id":"Edwards reserve pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.117067,-38.053515,0 ]
+    },
+    "properties": {
+    "id":"Jungle Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.116853,-38.053486,0 ]
+    },
+    "properties": {
+    "id":"Sea Horse Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.116407,-38.053608,0 ]
+    },
+    "properties": {
+    "id":"Chelsea Our City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.11546,-38.052557,0 ]
+    },
+    "properties": {
+    "id":"Black Sheep Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115839,-38.053524,0 ]
+    },
+    "properties": {
+    "id":"Painted Laneway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.117153,-38.054081,0 ]
+    },
+    "properties": {
+    "id":"Concert Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.117384,-38.054559,0 ]
+    },
+    "properties": {
+    "id":"Goddess Pole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.118307,-38.05403,0 ]
+    },
+    "properties": {
+    "id":"St Andrews Uniting Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.116944,-38.054998,0 ]
+    },
+    "properties": {
+    "id":"Beach House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086778,-38.006893,0 ]
+    },
+    "properties": {
+    "id":"Mordialloc War Memorial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086934,-38.007073,0 ]
+    },
+    "properties": {
+    "id":"Mordialloc Clock Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086504,-38.007214,0 ]
+    },
+    "properties": {
+    "id":"Jungle Animals Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.085058,-38.008212,0 ]
+    },
+    "properties": {
+    "id":"Peter Scullin Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08414,-38.008449,0 ]
+    },
+    "properties": {
+    "id":"Peter Scullin Gazebo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119567,-38.062791,0 ]
+    },
+    "properties": {
+    "id":"Bonbeach Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123574,-38.085561,0 ]
+    },
+    "properties": {
+    "id":"Wood Wall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.096328,-37.600522,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126267,-38.08844,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1252,-38.094351,0 ]
+    },
+    "properties": {
+    "id":"Seaford Foreshore Walking Track"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.102862,-37.592973,0 ]
+    },
+    "properties": {
+    "id":"Mernda Church Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.10269,-37.594257,0 ]
+    },
+    "properties": {
+    "id":"Aust Post Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12888,-38.103039,0 ]
+    },
+    "properties": {
+    "id":"Seaford Uniting Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12753,-38.103552,0 ]
+    },
+    "properties": {
+    "id":"Kananook Creek Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127595,-38.103341,0 ]
+    },
+    "properties": {
+    "id":"Seaford War Memorial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128713,-38.104449,0 ]
+    },
+    "properties": {
+    "id":"Seaford DC Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12668,-38.103229,0 ]
+    },
+    "properties": {
+    "id":"Klauer Fountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128617,-38.102106,0 ]
+    },
+    "properties": {
+    "id":"Seaford North Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128794,-38.10097,0 ]
+    },
+    "properties": {
+    "id":"Seaford Skate Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.125328,-38.103478,0 ]
+    },
+    "properties": {
+    "id":"Seaford Pier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.125688,-38.103132,0 ]
+    },
+    "properties": {
+    "id":"Seaford Pier Water Pipe and Pump"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127302,-38.110139,0 ]
+    },
+    "properties": {
+    "id":"R F Miles Recreation Reserve Plaque"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.133858,-38.12015,0 ]
+    },
+    "properties": {
+    "id":"Kananook Reserve Basketball Stadium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.924366,-37.721764,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.923433,-37.721646,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.922521,-37.717682,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127463,-37.586299,0 ]
+    },
+    "properties": {
+    "id":"Aust Post Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.158754,-38.158165,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.131323,-38.12081,0 ]
+    },
+    "properties": {
+    "id":"The Sphere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.131385,-38.12,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.131369,-38.121,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.132664,-38.121452,0 ]
+    },
+    "properties": {
+    "id":"Southern Umpiring Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.157019,-38.157808,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.156316,-38.157749,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.155734,-38.157806,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.137886,-38.16144,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.141362,-38.159293,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.14574,-38.153407,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.146577,-38.152626,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.14213,-38.151715,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.143047,-38.152576,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.131245,-38.12618,0 ]
+    },
+    "properties": {
+    "id":"Koosh Club Kids Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.354392,-41.15898,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.355304,-41.159876,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.158684,-38.152957,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.354896,-41.159982,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159655,-38.153194,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159433,-38.153122,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.356296,-41.158871,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124604,-38.132957,0 ]
+    },
+    "properties": {
+    "id":"Avenue of Honour North"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123708,-38.135071,0 ]
+    },
+    "properties": {
+    "id":"Boathouse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.35599,-41.160983,0 ]
+    },
+    "properties": {
+    "id":"Point 182"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124907,-38.132704,0 ]
+    },
+    "properties": {
+    "id":"Ambassador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036231,-38.216153,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.035614,-38.216195,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036488,-38.217915,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03673,-38.217946,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037215,-38.218633,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127034,-38.140033,0 ]
+    },
+    "properties": {
+    "id":"Under the Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037615,-38.219419,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037746,-38.219578,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037896,-38.219341,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.038482,-38.219219,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.038094,-38.21899,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037805,-38.218258,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037422,-38.217982,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037017,-38.217363,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036947,-38.2172,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036062,-38.215923,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036381,-38.215139,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122871,-38.138776,0 ]
+    },
+    "properties": {
+    "id":"The Menzies Home for Children"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.125189,-38.138265,0 ]
+    },
+    "properties": {
+    "id":"The Local Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126133,-38.137181,0 ]
+    },
+    "properties": {
+    "id":"Ebdale Community Hub"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124381,-38.137069,0 ]
+    },
+    "properties": {
+    "id":"The Sun God"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126176,-38.141307,0 ]
+    },
+    "properties": {
+    "id":"Eye Drops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12531,-38.141999,0 ]
+    },
+    "properties": {
+    "id":"City Life Community Help"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124931,-38.143096,0 ]
+    },
+    "properties": {
+    "id":"Wicked Witches Mural Gallery Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124776,-38.143624,0 ]
+    },
+    "properties": {
+    "id":"Green Dragon 2001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124679,-38.143797,0 ]
+    },
+    "properties": {
+    "id":"Gallery Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124105,-38.144138,0 ]
+    },
+    "properties": {
+    "id":"Color Wall Cypher"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12293,-38.144446,0 ]
+    },
+    "properties": {
+    "id":"Terminator Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124212,-38.140776,0 ]
+    },
+    "properties": {
+    "id":"Cheap Tax Returns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.125151,-38.142468,0 ]
+    },
+    "properties": {
+    "id":"Jubilee Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126503,-38.144459,0 ]
+    },
+    "properties": {
+    "id":"Science Faculty Chisholm TAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127436,-38.144105,0 ]
+    },
+    "properties": {
+    "id":"R W Brazenor Library"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128322,-38.144084,0 ]
+    },
+    "properties": {
+    "id":"Frankston Skatepark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.104517,-37.905312,0 ]
+    },
+    "properties": {
+    "id":"The Collective 1 Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.129421,-38.142868,0 ]
+    },
+    "properties": {
+    "id":"Painted Staircase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.167004,-33.887865,0 ]
+    },
+    "properties": {
+    "id":"Slowpoke"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.171457,-33.888853,0 ]
+    },
+    "properties": {
+    "id":"Tentacruel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126519,-38.140685,0 ]
+    },
+    "properties": {
+    "id":"Bayside Archway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.077279,-37.746193,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12215,-38.144003,0 ]
+    },
+    "properties": {
+    "id":"Frankston Carpark Noodles Art"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123046,-38.143607,0 ]
+    },
+    "properties": {
+    "id":"Fins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123011,-38.143358,0 ]
+    },
+    "properties": {
+    "id":"Frankston Central Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123767,-38.143109,0 ]
+    },
+    "properties": {
+    "id":"The Tropics Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123011,-38.141046,0 ]
+    },
+    "properties": {
+    "id":"Cute But Evil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.072363,-37.755367,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.072411,-37.755539,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122743,-38.139649,0 ]
+    },
+    "properties": {
+    "id":"Avenue of Honour"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.071716,-37.756281,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121546,-38.141906,0 ]
+    },
+    "properties": {
+    "id":"Nepean Hwy Test Planting Displays"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121477,-38.139843,0 ]
+    },
+    "properties": {
+    "id":"Kananook Walking Trail"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.120506,-38.142824,0 ]
+    },
+    "properties": {
+    "id":"Frankston Hall of Fame - Graham Kennedy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119454,-38.142603,0 ]
+    },
+    "properties": {
+    "id":"The Big Nut"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.118483,-38.143248,0 ]
+    },
+    "properties": {
+    "id":"Memorial Bridge Walk / Contributor Walk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119438,-38.143649,0 ]
+    },
+    "properties": {
+    "id":"Frankston Hall of Fame - Sir Laurence Hartnett"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119299,-38.143843,0 ]
+    },
+    "properties": {
+    "id":"Hall of Fame Ellie Cole."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.118934,-38.144754,0 ]
+    },
+    "properties": {
+    "id":"Hof Desmond Piper"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.118837,-38.144948,0 ]
+    },
+    "properties": {
+    "id":"Stainless Steel Bridge Frankston Hall of Fame Walk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.727956,-37.578705,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.721838,-37.582422,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.718062,-37.581793,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.715567,-37.587617,0 ]
+    },
+    "properties": {
+    "id":"Popkestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.718303,-37.589402,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.708931,-37.58482,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.692929,-37.582771,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.876666,-37.772377,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.876076,-37.770715,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.87511,-37.770927,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.88761,-37.771614,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.062232,-37.906232,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.053348,-37.907824,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.062747,-37.903896,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06043,-37.902203,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.871811,-37.769421,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.058842,-37.902067,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05764,-37.901932,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.021003,-37.892847,0 ]
+    },
+    "properties": {
+    "id":"Point 269"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.025706,-37.895584,0 ]
+    },
+    "properties": {
+    "id":"Point 270"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.030166,-37.895843,0 ]
+    },
+    "properties": {
+    "id":"Point 271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.031424,-37.896452,0 ]
+    },
+    "properties": {
+    "id":"Point 272"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.031878,-37.896353,0 ]
+    },
+    "properties": {
+    "id":"Point 273"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036496,-37.897032,0 ]
+    },
+    "properties": {
+    "id":"Point 274"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036129,-37.896302,0 ]
+    },
+    "properties": {
+    "id":"Point 275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037038,-37.897136,0 ]
+    },
+    "properties": {
+    "id":"Point 276"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.038307,-37.897337,0 ]
+    },
+    "properties": {
+    "id":"Point 277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.040404,-37.897491,0 ]
+    },
+    "properties": {
+    "id":"Point 278"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.026115,-37.894131,0 ]
+    },
+    "properties": {
+    "id":"Point 279"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.025291,-37.892679,0 ]
+    },
+    "properties": {
+    "id":"Point 280"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02442,-37.892515,0 ]
+    },
+    "properties": {
+    "id":"Point 281"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159822,-38.152268,0 ]
+    },
+    "properties": {
+    "id":"Point 282"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.16653,-38.153242,0 ]
+    },
+    "properties": {
+    "id":"Karingal Post office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.167117,-38.155744,0 ]
+    },
+    "properties": {
+    "id":"Sign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.156549,-38.164196,0 ]
+    },
+    "properties": {
+    "id":"Reserve sign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.22835,-37.816274,0 ]
+    },
+    "properties": {
+    "id":"Ringwood Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.033508,-38.21844,0 ]
+    },
+    "properties": {
+    "id":"The Royal Hotel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.692975,-37.58252,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.696757,-37.583309,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.696006,-37.583226,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.634963,-31.562616,0 ]
+    },
+    "properties": {
+    "id":"Foreshore Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.725387,-37.574432,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.725839,-37.574701,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.723429,-37.573399,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.636594,-31.563291,0 ]
+    },
+    "properties": {
+    "id":"Longfin Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.722386,-37.576359,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.722595,-37.576458,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.730914,-37.580228,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.631962,-31.559271,0 ]
+    },
+    "properties": {
+    "id":"Compass Park Sign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.732626,-37.579697,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.731664,-37.579236,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.729271,-37.579714,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.739702,-37.580011,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.726189,-37.583885,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.464102,-38.080675,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.319767,-37.812929,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.316999,-37.813446,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.146254,-33.906557,0 ]
+    },
+    "properties": {
+    "id":"Ornate Window Lattice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.144559,-33.90572,0 ]
+    },
+    "properties": {
+    "id":"Dulwich Hill Dentist"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.16046,-33.902639,0 ]
+    },
+    "properties": {
+    "id":"Point 310"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.159987,-33.901838,0 ]
+    },
+    "properties": {
+    "id":"Karp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.162691,-33.902069,0 ]
+    },
+    "properties": {
+    "id":"Entrance#1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.16297,-33.902336,0 ]
+    },
+    "properties": {
+    "id":"Stirrup"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961215,-37.759358,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.042617,-37.875711,0 ]
+    },
+    "properties": {
+    "id":"Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.042129,-37.876168,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.042703,-37.876549,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962014,-37.762412,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961622,-37.761496,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960625,-37.762,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960721,-37.761067,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960957,-37.760618,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961553,-37.760656,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961874,-37.760728,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961536,-37.759803,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962733,-37.760232,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962958,-37.761305,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96129,-37.763226,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960726,-37.763132,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045704,-37.894515,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960496,-37.762823,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045849,-37.894096,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960694,-37.764078,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045962,-37.893478,0 ]
+    },
+    "properties": {
+    "id":"Glenhuntly Memorial Bridge Plaque"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.046037,-37.89261,0 ]
+    },
+    "properties": {
+    "id":"Glen Huntly Greek Orthodox Old Calendar Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045731,-37.891768,0 ]
+    },
+    "properties": {
+    "id":"SHARC Community Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.045377,-37.88996,0 ]
+    },
+    "properties": {
+    "id":"Glenhuntly Giant Flower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.046997,-37.89013,0 ]
+    },
+    "properties": {
+    "id":"Lady on the Wall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.048537,-37.893614,0 ]
+    },
+    "properties": {
+    "id":"Fruits On The Stone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.049256,-37.893775,0 ]
+    },
+    "properties": {
+    "id":"Cream Brick Pavillion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.050006,-37.893906,0 ]
+    },
+    "properties": {
+    "id":"Lord Reserve Pavilion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.048145,-37.89493,0 ]
+    },
+    "properties": {
+    "id":"Lord Reserve Etchings (South West)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.051224,-37.895019,0 ]
+    },
+    "properties": {
+    "id":"Carnegie Tennis Courts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.051793,-37.894706,0 ]
+    },
+    "properties": {
+    "id":"Memorial Swimming Pool"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05183,-37.89449,0 ]
+    },
+    "properties": {
+    "id":"Caulfield Community Toy Library"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.155272,-37.674038,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.155315,-37.674144,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.152692,-37.675257,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15892,-37.674964,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.160401,-37.674612,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.157762,-37.674433,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159269,-37.674713,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.157526,-37.671508,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.158277,-37.671155,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.043939,-37.893402,0 ]
+    },
+    "properties": {
+    "id":"Goldie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.044261,-37.893271,0 ]
+    },
+    "properties": {
+    "id":"Garden Ave Reserve Flower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.803549,-34.07603,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.803634,-34.075524,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04196,-37.891493,0 ]
+    },
+    "properties": {
+    "id":"Glenhuntly Bike Path"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.803527,-34.075532,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.80261,-34.076666,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.799144,-34.085138,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.79363,-34.083997,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.792021,-34.092491,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.798694,-34.088408,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.964262,-37.809714,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.964551,-37.809886,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96461,-37.810159,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.834462,-31.497409,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.834124,-31.497404,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.915405,-37.857507,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.834204,-31.497057,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.971981,-37.83298,0 ]
+    },
+    "properties": {
+    "id":"Historic Drinking Fountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.972418,-37.833287,0 ]
+    },
+    "properties": {
+    "id":"South African War Memorial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.010323,-37.88568,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.010613,-37.886838,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.011238,-37.885727,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01079,-37.886065,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.010318,-37.887048,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.973781,-37.771355,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.808286,-34.072266,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.807502,-34.072942,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.807309,-34.071013,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.806494,-34.070596,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.806783,-34.07008,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.812287,-34.06785,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115597,-37.909373,0 ]
+    },
+    "properties": {
+    "id":"Princess Highway Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.115522,-37.908238,0 ]
+    },
+    "properties": {
+    "id":"Clayton Chinese Christian Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.11799,-37.908924,0 ]
+    },
+    "properties": {
+    "id":"Princess Highway Reserve entry 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.118505,-37.909119,0 ]
+    },
+    "properties": {
+    "id":"Monash Vet Clinic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.759657,-37.776736,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75455,-37.773446,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.049296,-37.868853,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.047383,-37.868601,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.048242,-37.865128,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04966,-37.86522,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.049677,-37.865372,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.050267,-37.865787,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.048636,-37.866916,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123622,-37.820311,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124373,-37.820412,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123649,-37.819781,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126905,-37.818772,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128418,-37.818929,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128279,-37.819112,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.075214,-37.868891,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.074838,-37.870068,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126388,-37.81873,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.972609,-37.80744,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123842,-37.817825,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124231,-37.817878,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123987,-37.818118,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123687,-37.818319,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.98485,-37.891366,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.211969,-33.905422,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.211051,-33.905186,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.209662,-33.916325,0 ]
+    },
+    "properties": {
+    "id":"Kimberly Grove Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2111,-33.916654,0 ]
+    },
+    "properties": {
+    "id":"Kimberly Grove Reserve Sign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207328,-33.915915,0 ]
+    },
+    "properties": {
+    "id":"Angel Child Statue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207248,-33.916066,0 ]
+    },
+    "properties": {
+    "id":"St. Joseph's Catholic Church Rosebery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207881,-33.917073,0 ]
+    },
+    "properties": {
+    "id":"St Joseph's Rosebery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.20705,-33.91644,0 ]
+    },
+    "properties": {
+    "id":"Joseph And Baby Jesus Statue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207668,-33.907175,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.210708,-33.90816,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.211424,-33.907267,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122265,-37.818018,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122362,-37.818184,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121074,-37.817785,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121214,-37.818018,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.274802,-37.919048,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.273762,-37.918878,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.274545,-37.918362,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.271037,-37.92823,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.273697,-37.924181,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.102905,-37.854377,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.282999,-38.110637,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.282581,-38.112819,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.297617,-38.112397,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.298089,-38.113811,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.297199,-38.113579,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.295734,-38.114018,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.132806,-37.821396,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.133547,-37.822726,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.133171,-37.82243,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.847205,-37.835912,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.845788,-37.834344,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.846379,-37.834429,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.845606,-37.83509,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1336,-37.822023,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.133579,-37.821709,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.845992,-37.841258,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.853545,-37.846901,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.858406,-37.839886,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.85597,-37.839911,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.852451,-37.835454,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.852172,-37.836929,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.850574,-37.836768,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.850863,-37.83664,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.132742,-37.821777,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.134791,-37.821752,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.134405,-37.821599,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.134491,-37.82226,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135027,-37.822328,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.136266,-37.822311,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.136148,-37.821883,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135816,-37.821862,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135413,-37.819887,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135392,-37.820205,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.129416,-37.818209,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.26078,-37.878512,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.260758,-37.878986,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.267453,-37.879858,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.266627,-37.87963,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123354,-37.819239,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122405,-37.819061,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995209,-37.712178,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995263,-37.711843,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995402,-37.71315,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995096,-37.713265,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995075,-37.713379,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995198,-37.713439,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.99523,-37.71332,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.164499,-37.819175,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.995137,-37.70845,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.166441,-37.817684,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.283257,-37.920656,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.282334,-37.922179,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.017723,-37.757615,0 ]
+    },
+    "properties": {
+    "id":"Hayes Park Main Entrance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01871,-37.762484,0 ]
+    },
+    "properties": {
+    "id":"Andrew Boyd Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.949118,-37.805418,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94297,-37.806724,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.941812,-37.80658,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.948657,-37.80524,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.90999,-37.747414,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.910977,-37.746227,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.910419,-37.744208,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.910151,-37.743894,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.905956,-37.743334,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.20676,-33.874086,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.947798,-37.805868,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.206787,-33.873948,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.111628,-37.837242,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.109997,-37.838361,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.106027,-37.837547,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.105512,-37.838428,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.105555,-37.837988,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.104976,-37.839248,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.104573,-37.838259,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.943812,-37.807398,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.10739,-38.036752,0 ]
+    },
+    "properties": {
+    "id":"Edi Diving Pole Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.106773,-38.03578,0 ]
+    },
+    "properties": {
+    "id":"Flying Unicorn on Post"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.108345,-38.032704,0 ]
+    },
+    "properties": {
+    "id":"Regents Park Scout and Guide Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.103004,-37.910685,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.10713,-37.911873,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.997237,-37.826396,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.023233,-37.821938,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.019124,-37.856236,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.00041,-37.824618,0 ]
+    },
+    "properties": {
+    "id":"Vulpix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.996239,-37.825074,0 ]
+    },
+    "properties": {
+    "id":"Wartortle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.177969,-37.834738,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.117373,-37.927401,0 ]
+    },
+    "properties": {
+    "id":"Clayton Water Feature Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.178036,-37.834929,0 ]
+    },
+    "properties": {
+    "id":"Poke Stop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.175656,-37.828467,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18068,-37.826876,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.181464,-37.826558,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.187073,-37.832277,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121241,-37.923918,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.121866,-37.920228,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119824,-37.923552,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.120173,-37.92311,0 ]
+    },
+    "properties": {
+    "id":"Clayton Shrine of Remembrance Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127302,-37.91843,0 ]
+    },
+    "properties": {
+    "id":"Fregon Reserve Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126015,-37.920169,0 ]
+    },
+    "properties": {
+    "id":"Australian Animals Mural Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119983,-37.924341,0 ]
+    },
+    "properties": {
+    "id":"Clayton Station Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.938373,-37.707973,0 ]
+    },
+    "properties": {
+    "id":"PostOffice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.942048,-37.709615,0 ]
+    },
+    "properties": {
+    "id":"Tennis Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.917457,-37.704548,0 ]
+    },
+    "properties": {
+    "id":"Glenroy station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.935372,-37.709606,0 ]
+    },
+    "properties": {
+    "id":"Truscott Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.046966,-37.945505,0 ]
+    },
+    "properties": {
+    "id":"Tennis Courts Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.040817,-37.948491,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03979,-37.94861,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.052525,-37.941985,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.053062,-37.940769,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.051774,-37.951393,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.052437,-37.950361,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.052206,-37.950907,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.043744,-37.94888,0 ]
+    },
+    "properties": {
+    "id":"Olden Days Light Pole Mural Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04318,-37.949096,0 ]
+    },
+    "properties": {
+    "id":"Highett Library Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.043306,-37.948988,0 ]
+    },
+    "properties": {
+    "id":"The Clown on Highett Rd Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.224951,-33.873132,0 ]
+    },
+    "properties": {
+    "id":"Point 551"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.225103,-33.8712,0 ]
+    },
+    "properties": {
+    "id":"Opium Den Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.224532,-33.871589,0 ]
+    },
+    "properties": {
+    "id":"Angel Wings Mural Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.192303,-33.892342,0 ]
+    },
+    "properties": {
+    "id":"Greek Orthodox Church Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.191892,-33.891829,0 ]
+    },
+    "properties": {
+    "id":"Old Great Hall Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.191266,-33.890983,0 ]
+    },
+    "properties": {
+    "id":"Aquatic Centre Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.19455,-33.891805,0 ]
+    },
+    "properties": {
+    "id":"Charles Kernan Reserve Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.198501,-33.891436,0 ]
+    },
+    "properties": {
+    "id":"Pemulwuy Digger Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.205483,-37.928492,0 ]
+    },
+    "properties": {
+    "id":"Dandenong Trail Sign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.200419,-37.932973,0 ]
+    },
+    "properties": {
+    "id":"Gladeswood Reserve Sign Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.043102,-37.877225,0 ]
+    },
+    "properties": {
+    "id":"Monash University Caulfield"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.058611,-37.886307,0 ]
+    },
+    "properties": {
+    "id":"Carnegie Station PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.067307,-37.890159,0 ]
+    },
+    "properties": {
+    "id":"Murrumbeena Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.067237,-37.890252,0 ]
+    },
+    "properties": {
+    "id":"Murrumbeena Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.077639,-37.894888,0 ]
+    },
+    "properties": {
+    "id":"Hughesdale Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.872332,-37.821633,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.088368,-37.900391,0 ]
+    },
+    "properties": {
+    "id":"Oakleigh Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.870261,-37.823302,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.870454,-37.818743,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.251467,-38.054516,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.249751,-38.05539,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.249708,-38.055099,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.250558,-38.054841,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.251569,-38.055372,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.985529,-37.800678,0 ]
+    },
+    "properties": {
+    "id":"NMIT Building A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.049081,-37.814384,0 ]
+    },
+    "properties": {
+    "id":"Carey Baptist Grammar School Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.066352,-37.742825,0 ]
+    },
+    "properties": {
+    "id":"Rosanna Train Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.814653,-37.781128,0 ]
+    },
+    "properties": {
+    "id":"Selwyn Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159352,-37.933354,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159408,-37.932844,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.159746,-37.932897,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.160253,-37.932969,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.166345,-37.923643,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.155527,-37.935349,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.155187,-37.931074,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.908166,-37.759935,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.052265,-37.942886,0 ]
+    },
+    "properties": {
+    "id":"Moorabbin Masonic Centre Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.052576,-37.942353,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.015706,-27.355583,0 ]
+    },
+    "properties": {
+    "id":"Cabbage Tree Creek Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.015679,-27.355903,0 ]
+    },
+    "properties": {
+    "id":"Cabbage Tree Creek Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.117304,-33.777494,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.016795,-27.355955,0 ]
+    },
+    "properties": {
+    "id":"Aspley Red Rooster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.016259,-27.356236,0 ]
+    },
+    "properties": {
+    "id":"Zupps Aspley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.002773,-33.735417,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.20765,-33.86775,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207371,-33.867362,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207425,-33.867643,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207613,-33.866834,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.206679,-33.86712,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.207495,-33.868776,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.865551,-37.786746,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.874579,-37.790778,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.082569,-37.886535,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.874515,-37.793177,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.083507,-37.887369,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084907,-37.887247,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.875572,-37.792198,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.083003,-37.887255,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.083792,-37.886438,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961703,-37.833868,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.081388,-37.887103,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.080358,-37.887369,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.080686,-37.886705,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.080734,-37.885934,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.081254,-37.886357,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.083899,-37.885896,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084897,-37.886209,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.959831,-37.771211,0 ]
+    },
+    "properties": {
+    "id":"Brunswick Baths"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.738109,-37.753645,0 ]
+    },
+    "properties": {
+    "id":"Lakeside Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.936933,-37.828489,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.934736,-37.826709,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.937765,-37.828457,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.269194,-37.86045,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.306827,-37.780826,0 ]
+    },
+    "properties": {
+    "id":"Mooroolbark Football Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.254732,-37.796104,0 ]
+    },
+    "properties": {
+    "id":"Pokestops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.163335,-37.890456,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.162885,-37.890985,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.163288,-37.891454,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.163523,-37.891484,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.161763,-37.888965,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27712,-37.898634,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.272806,-37.881727,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.775152,-33.762098,0 ]
+    },
+    "properties": {
+    "id":"St Marys Station Clock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.237517,-37.832556,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.662717,-6.346031,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.66346,-6.345796,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965324,-37.827593,0 ]
+    },
+    "properties": {
+    "id":"POkestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.967986,-37.823034,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.008738,-37.831904,0 ]
+    },
+    "properties": {
+    "id":"Point 635"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.009422,-37.828216,0 ]
+    },
+    "properties": {
+    "id":"Point 636"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.010543,-37.828868,0 ]
+    },
+    "properties": {
+    "id":"Pokestops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19734,-37.983615,0 ]
+    },
+    "properties": {
+    "id":"Point 638"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.475404,-38.071325,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.480667,-38.074757,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.481671,-38.074368,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.481641,-38.074055,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.482482,-38.074563,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.482931,-38.075263,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.483283,-38.075435,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.484011,-38.076084,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.481397,-38.077162,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.482137,-38.078517,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.483611,-38.079076,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.483279,-38.079258,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.485404,-38.079586,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.487008,-38.081788,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.472377,-38.078956,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.472385,-38.078451,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.473192,-38.078736,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.471443,-38.081803,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.472229,-38.084659,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.455428,-38.07803,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.457118,-38.081288,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.453899,-38.077994,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.452504,-38.080507,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.452123,-38.082484,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.437554,-38.075247,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.048561,-37.775209,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.051423,-37.776161,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.095757,-37.850524,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.837758,-37.775065,0 ]
+    },
+    "properties": {
+    "id":"Dempster Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83665,-37.775463,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.848232,-37.779339,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.739396,-34.001336,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.190686,-38.149418,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.339975,-38.040149,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.197151,-38.150514,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.181258,-38.144767,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.184562,-38.150635,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.951474,-37.810916,0 ]
+    },
+    "properties": {
+    "id":"PokeStop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.191413,-38.152643,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.922999,-37.785888,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.931372,-27.077455,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.595412,-38.602277,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.59839,-38.601948,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.591496,-38.604798,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.59108,-38.604829,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.590941,-38.605342,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.591233,-38.605946,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.148498,-37.873577,0 ]
+    },
+    "properties": {
+    "id":"Australia Post - Syndal LPO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.155338,-37.839143,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.182577,-37.962377,0 ]
+    },
+    "properties": {
+    "id":"Noble Park Tennis Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.196351,-37.953876,0 ]
+    },
+    "properties": {
+    "id":"Barry J Powell Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.196348,-37.954299,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.085776,-38.006316,0 ]
+    },
+    "properties": {
+    "id":"Mordialloc Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086227,-38.007377,0 ]
+    },
+    "properties": {
+    "id":"Beachside Mural."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086168,-38.005877,0 ]
+    },
+    "properties": {
+    "id":"Palm Trees Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086458,-38.006274,0 ]
+    },
+    "properties": {
+    "id":"Seahorses Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.083743,-38.008582,0 ]
+    },
+    "properties": {
+    "id":"How do Dunes Form"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.189562,-37.96088,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.087391,-38.008535,0 ]
+    },
+    "properties": {
+    "id":"Fish N Crab Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.086184,-38.009186,0 ]
+    },
+    "properties": {
+    "id":"Hazel Pierce Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.085884,-38.009002,0 ]
+    },
+    "properties": {
+    "id":"Peter Scullin Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.085642,-38.009499,0 ]
+    },
+    "properties": {
+    "id":"Tour de Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.087295,-38.00925,0 ]
+    },
+    "properties": {
+    "id":"Mordy Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084441,-38.009736,0 ]
+    },
+    "properties": {
+    "id":"Sea Wall Plaque"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084875,-38.009947,0 ]
+    },
+    "properties": {
+    "id":"Mordy Pier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084612,-38.010425,0 ]
+    },
+    "properties": {
+    "id":"Mordialloc Pier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.088346,-38.008895,0 ]
+    },
+    "properties": {
+    "id":"Pompei Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.088931,-38.009296,0 ]
+    },
+    "properties": {
+    "id":"Pompei Shark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.089269,-38.010484,0 ]
+    },
+    "properties": {
+    "id":"Tree Carving 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.093147,-38.010509,0 ]
+    },
+    "properties": {
+    "id":"Marine Park Boat Launch Mordialloc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.092801,-38.004475,0 ]
+    },
+    "properties": {
+    "id":"Witchel Memorial Guide Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.091227,-38.003226,0 ]
+    },
+    "properties": {
+    "id":"Ben Kavanagh Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968671,-37.733033,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968564,-37.732724,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.969009,-37.733038,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968923,-37.732707,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06409,-37.704105,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.969385,-37.73263,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.969057,-37.733878,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.185032,-38.102155,0 ]
+    },
+    "properties": {
+    "id":"Australia Post - Carrum Downs LPO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.186865,-38.103193,0 ]
+    },
+    "properties": {
+    "id":"Carrum Downs Library"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.969084,-37.734459,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.967185,-37.733924,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968087,-37.734047,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.967046,-37.7335,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.190885,-38.105955,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.966096,-37.736822,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236419,-37.892095,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123314,-38.076189,0 ]
+    },
+    "properties": {
+    "id":"Carrum Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124298,-38.076164,0 ]
+    },
+    "properties": {
+    "id":"Carrum Uniting Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.235697,-37.888923,0 ]
+    },
+    "properties": {
+    "id":"One Hope Community Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128821,-38.074278,0 ]
+    },
+    "properties": {
+    "id":"Mc Dougall Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.234964,-37.890013,0 ]
+    },
+    "properties": {
+    "id":"Bamber Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.125881,-38.075562,0 ]
+    },
+    "properties": {
+    "id":"St Aidans Anglican Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.799883,-37.70271,0 ]
+    },
+    "properties": {
+    "id":"Australia Post - Taylors Lakes LPO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.919654,-37.574554,0 ]
+    },
+    "properties": {
+    "id":"Stockland Highlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.77509,-37.698817,0 ]
+    },
+    "properties": {
+    "id":"Hoyts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.233675,-37.898849,0 ]
+    },
+    "properties": {
+    "id":"Art Box' with graffiti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.799101,-37.824712,0 ]
+    },
+    "properties": {
+    "id":"Popeye's Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.23101,-37.89784,0 ]
+    },
+    "properties": {
+    "id":"Scoresby Football Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.230834,-37.893526,0 ]
+    },
+    "properties": {
+    "id":"Sheppard Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128483,-38.090399,0 ]
+    },
+    "properties": {
+    "id":"Armstrong Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.132163,-38.09647,0 ]
+    },
+    "properties": {
+    "id":"North Seaford Tennis Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.134689,-38.10886,0 ]
+    },
+    "properties": {
+    "id":"Weatherston Reserve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.059209,-37.821297,0 ]
+    },
+    "properties": {
+    "id":"St Mark's Anglican Church,  Camberwell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.066642,-37.819775,0 ]
+    },
+    "properties": {
+    "id":"Shenley Ground,  Canterbury VIC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.141757,-38.113669,0 ]
+    },
+    "properties": {
+    "id":"Golden Tyre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.123888,-38.129141,0 ]
+    },
+    "properties": {
+    "id":"Mile Bridge Marker"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.755906,37.860019,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.108731,-38.039092,0 ]
+    },
+    "properties": {
+    "id":"Turtle Pole Mural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.929447,-37.744804,0 ]
+    },
+    "properties": {
+    "id":"Sculpture,  Cross Keys Reserve, Essendon, VIC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.92099,-37.747251,0 ]
+    },
+    "properties": {
+    "id":"Glenbervie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.775117,41.531898,0 ]
+    },
+    "properties": {
+    "id":"Capela Sra da Saúde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.01751,-27.364016,0 ]
+    },
+    "properties": {
+    "id":"1331 Gympie Road, Aspley, Brisbane, Queendsland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.858094,-37.719994,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.301028,-37.780972,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.307639,-37.778861,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.131421,-33.923775,0 ]
+    },
+    "properties": {
+    "id":"12-14 Paris Ave, Earlwood, New South Wales, Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.140194,-37.967,0 ]
+    },
+    "properties": {
+    "id":"Springvalley Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9443036,40.7467276,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.947272,23.651338,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.454851,-87.629587,0 ]
+    },
+    "properties": {
+    "id":"Iglesia de Dios de la Profesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.454304,-87.629392,0 ]
+    },
+    "properties": {
+    "id":"Placa Boulevard Circunvalacion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.768833,-37.886583,0 ]
+    },
+    "properties": {
+    "id":"Sanctuary Lakes Resort Victoria Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.768972,-37.88575,0 ]
+    },
+    "properties": {
+    "id":"Breezewater Reserve Sanctuary lakes Victoria Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.926363,37.832559,0 ]
+    },
+    "properties": {
+    "id":"Pokestop"
+    }
+  }
+]
+}
