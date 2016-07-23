@@ -1,4 +1,5 @@
 # Pokemon Go
+This project is currently `abandoned`
 
 ## Beta
 This version is currently in `Beta`. It is considered unstable, some commits will be 
