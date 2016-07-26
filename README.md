@@ -1,5 +1,5 @@
 # Pokemon Go
-This project is currently `abandoned` to access the previous release visit 99150c5cc349354167bb8f0d639fac240ca724ad
+This project is currently `abandoned` to access the previous release visit commit 99150c5cc349354167bb8f0d639fac240ca724ad
 
 ## Beta
 This version is currently in `Beta`. It is considered unstable, some commits will be 
